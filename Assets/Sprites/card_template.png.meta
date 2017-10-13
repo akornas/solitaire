@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 5cf2362e5658678409f515128042f429
+timeCreated: 1506933578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: card_template_0
+    21300002: card_template_1
+    21300004: card_template_2
+    21300006: card_template_3
+    21300008: card_template_4
+    21300010: card_template_5
+    21300012: card_template_6
+    21300014: card_template_7
+    21300016: card_template_8
+    21300018: card_template_9
+    21300020: card_template_10
+    21300022: card_template_11
+    21300024: card_template_12
+    21300026: card_template_13
+    21300028: card_template_14
+    21300030: card_template_15
+    21300032: card_template_16
+    21300034: card_template_17
+    21300036: card_template_18
+    21300038: card_template_19
+    21300040: card_template_20
+    21300042: card_template_21
+    21300044: card_template_22
+    21300046: card_template_23
+    21300048: card_template_24
+    21300050: card_template_25
+    21300052: card_template_26
+    21300054: card_template_27
+    21300056: card_template_28
+    21300058: card_template_29
+    21300060: card_template_30
+    21300062: card_template_31
+    21300064: card_template_32
+    21300066: card_template_33
+    21300068: card_template_34
+    21300070: card_template_35
+    21300072: card_template_36
+    21300074: card_template_37
+    21300076: card_template_38
+    21300078: card_template_39
+    21300080: card_template_40
+    21300082: card_template_41
+    21300084: card_template_42
+    21300086: card_template_43
+    21300088: card_template_44
+    21300090: card_template_45
+    21300092: card_template_46
+    21300094: card_template_47
+    21300096: card_template_48
+    21300098: card_template_49
+    21300100: card_template_50
+    21300102: card_template_51
+    21300104: card_template_52
+    21300106: card_template_53
+    21300108: card_template_54
+    21300110: card_template_55
+    21300112: card_template_56
+    21300114: card_template_57
+    21300116: card_template_58
+    21300118: card_template_59
+    21300120: card_template_60
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_template_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_9
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_11
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_12
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_13
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_14
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 495
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_15
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 587
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_21
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_23
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_25
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_26
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_27
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_28
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_29
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_30
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 338
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_38
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_39
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_40
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_41
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_42
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_43
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_44
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_45
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 182
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_49
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_51
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_52
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_53
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_55
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_56
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_57
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_58
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_59
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_template_60
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 25
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
